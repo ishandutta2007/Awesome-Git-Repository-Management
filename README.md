@@ -43,6 +43,7 @@ This curated list benchmarks leading **cloud SaaS platforms** and **open-source 
 - 🐙 [Open-Source Git Servers & Repositories](#-open-source-git-servers--repositories)
 - 🏗️ [Architectural Comparison & Hardware Requirements](#️-architectural-comparison--hardware-requirements)
 - 🤝 [How to Contribute](#-how-to-contribute)
+- 💖 [Support & Community](#-support--community)
 - ⭐ [Star History](#--star-history)
 - ⚖️ [Disclaimer & License](#️-disclaimer--license)
 
@@ -156,6 +157,21 @@ Contributions are warmly welcomed! Help keep this ecosystem guide fresh and accu
 4. **Submit a Pull Request** with a brief summary of additions or updates.
 
 Please ensure all pricing, free-tier limits, and star counts are factually verified before submitting.
+
+---
+
+## 💖 Support & Community
+
+Thank you for visiting and using this curated ecosystem guide! If you find this resource helpful for your work, infrastructure, or learning, here are a few ways you can show support:
+
+- ⭐ **Star this repository** on GitHub to help others discover it.
+- 🍴 **Fork and contribute** by adding new tools, updating pricing tiers, or suggesting improvements.
+- 📢 **Share it** with fellow DevOps engineers, system administrators, and developers.
+- ☕ **Buy me a coffee / Sponsor**: Support continued maintenance and future open-source projects via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<a href="https://github.com/sponsors/ishandutta2007">
+  <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=GitHub-Sponsors" alt="Sponsor on GitHub" />
+</a>
 
 ---
 
