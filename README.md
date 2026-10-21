@@ -42,47 +42,15 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[GitHub Enterprise](https://github.com/enterprise)**  
-
-  GitHub's self-hosted and cloud enterprise offering. The de facto standard for open-source and increasingly for enterprise development. Provides Actions, Packages, Advanced Security, and Copilot integration. Proprietary with per-seat pricing.
-
-
-
-- **[GitLab Enterprise](https://about.gitlab.com/enterprise/)**  
-
-  Enterprise tier of GitLab's DevOps platform. Adds advanced CI/CD, security scanning, compliance controls, and portfolio management beyond the Community Edition. Open-core model with tiered pricing.
-
-
-
-- **[Bitbucket (Atlassian)](https://bitbucket.org/)**  
-
-  Atlassian's Git repository management with deep Jira and Confluence integration. Offers Bitbucket Pipelines for CI/CD. Cloud and Data Center (self-hosted) options. Proprietary with per-user pricing.
-
-
-
-- **[Azure Repos](https://azure.microsoft.com/en-us/products/devops/repos/)**  
-
-  Microsoft's Git repository hosting within Azure DevOps. Supports unlimited private repositories, pull requests, and integration with Azure Pipelines and Boards. Free tier for small teams; enterprise pricing scales with users.
-
-
-
-- **[AWS CodeCommit](https://aws.amazon.com/codecommit/)**  
-
-  AWS's managed Git repository service. Integrates with CodePipeline, CodeBuild, and IAM for access control. Best for AWS-native architectures requiring managed Git without self-hosting. **Note**: AWS has restricted new customer access to CodeCommit; verify availability before selecting.
-
-
-
-- **[Perforce Helix Core](https://www.perforce.com/products/helix-core)**  
-
-  Enterprise version control system optimized for large binary files and game development. Not Git-based, but widely used in industries where Git struggles with assets. Commercial, enterprise-priced.
-
-
-
-- **[RhodeCode](https://rhodecode.com/)**  
-
-  Enterprise Git and Mercurial repository management with centralized access control, code review, and CI integration. Available as self-hosted (free Community Edition) or hosted. Best for organizations needing multi-VCS support with enterprise governance.
+| Platform | Deployment Model | Pricing (Starting Tiers) | Free Tier Limits | Key Highlights |
+| :--- | :--- | :--- | :--- | :--- |
+| **[GitHub Enterprise](https://github.com/enterprise)** | Cloud SaaS & Self-Hosted Server | **Team:** $4 / user / month<br>**Enterprise:** $21 / user / month | **Free Forever:** Unlimited public/private repos, unlimited collaborators, 2,000 Actions CI/CD mins/month, 500 MB Package storage, 1 GB Git LFS | Industry standard forge, GitHub Actions ecosystem, Dependabot, Copilot integration, NPM/Docker package registry. |
+| **[GitLab Enterprise](https://about.gitlab.com/enterprise/)** | Cloud SaaS & Self-Managed | **Premium:** $29 / user / month (annual billing)<br>**Ultimate:** Custom quote | **Free Forever:** Up to 5 users per private top-level group, 400 CI/CD compute mins/month, 10 GiB storage/project, unlimited public repos | Complete DevSecOps lifecycle platform, integrated CI/CD runners, container registry, built-in security scanners. |
+| **[Bitbucket (Atlassian)](https://bitbucket.org/)** | Cloud SaaS & Data Center | **Standard:** $3.65 / user / month<br>**Premium:** $7.25 / user / month | **Free Forever:** Up to 5 users, unlimited private/public repos, 50 CI/CD build mins/month (Pipelines), 1 GB Git LFS | Native Jira and Confluence bidirectional integration, Bitbucket Pipelines, enforced merge check controls. |
+| **[Azure Repos](https://azure.microsoft.com/en-us/products/devops/repos/)** | Cloud SaaS & Azure DevOps Server | **Basic:** $6 / user / month (after 5 free users)<br>**Stakeholder:** Free (unlimited) | **Free Forever:** First 5 users free (full Basic plan), unlimited private Git repos, 1,800 free Azure Pipelines CI mins/month (1 hosted job) | Deep integration with Azure DevOps Boards & Pipelines, fine-grained branch policies, TFVC and Git support. |
+| **[AWS CodeCommit](https://aws.amazon.com/codecommit/)** | Fully Managed Cloud (AWS) | **Additional Users:** $1.00 / active user / month (includes +10 GB storage, +2,000 Git requests) | **Free Forever:** First 5 active users/month free, 50 GB-month pooled storage, 10,000 Git requests/month | AWS IAM authentication, native trigger integration with AWS CodePipeline, CodeBuild, and CloudWatch. *(Note: AWS restricted new customer onboarding)* |
+| **[Perforce Helix Core](https://www.perforce.com/products/helix-core)** | Managed Cloud & Self-Hosted | **P4 Cloud:** $39 / user / month (up to 100 users, 64 GiB storage)<br>**On-Premise:** ~$475 / seat / year | **Free Forever (Self-Hosted):** Up to 5 users, 20 client workspaces, 3 Git repos (via Git Connector), 3 lifetime support cases. 14-day cloud free trial | Built for massive scale, binary assets, and game engines (Unreal/Unity); high-performance centralized & hybrid VCS. |
+| **[RhodeCode](https://rhodecode.com/)** | Cloud SaaS & Self-Hosted | **Enterprise Edition:** $75 / user / year (~$6.25/user/month, 10-seat min)<br>**Enterprise Cloud:** Custom quote | **Free Forever (Community Edition):** Unlimited users, unlimited repos across Git, Mercurial (HG), and Subversion (SVN), full REST API | Unified management across Git, SVN, and Mercurial; code review, enterprise permissions, and LDAP integration. |
 
 
 
