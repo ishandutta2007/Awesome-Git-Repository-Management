@@ -10,7 +10,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Git-Repository-Management/pulls)
-[![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Git-Repository-Management?style=social)](https://github.com/ishandutta2007/Awesome-Git-Repository-Management/stargazers)
+[![GitHub_Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Git-Repository-Management?style=social)](https://github.com/ishandutta2007/Awesome-Git-Repository-Management/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A curated directory of top Git repository management platforms, self-hosted Git servers, lightweight code forges, and enterprise DevOps suites.**
@@ -87,48 +87,48 @@ The sector demonstrates **high market concentration with winner-take-most dynami
 
 ## 🐙 Open-Source Git Servers & Repositories
 
-Curated open-source Git servers, lightweight code forges, and complete self-hosted DevOps platforms, sorted by GitHub star count in descending order:
+Curated open-source Git servers, lightweight code forges, and complete self-hosted DevOps platforms, sorted by GitHub Stars_Count in descending order:
 
-- 🍵 **[Gitea](https://github.com/go-gitea/gitea)** [![GitHub stars](https://img.shields.io/github/stars/go-gitea/gitea?style=social&color=white)](https://github.com/go-gitea/gitea/stargazers)  
-  The safe default for lightweight self-hosted Git. Go-based, ships as a **single binary**, runs comfortably on **~1 GB RAM** (or less for small workloads). Covers repositories, issues, pull requests, wiki, and a built-in package registry supporting 20+ package ecosystems. **Gitea Actions** provides GitHub Actions-compatible CI/CD, allowing direct reuse of existing workflows and plugins. MIT licensed with 58K+ GitHub stars and 400K+ installations worldwide.
+- 🍵 **[Gitea](https://github.com/go-gitea/gitea)** [![GitHub_Stars](https://img.shields.io/github/stars/go-gitea/gitea?style=social&color=white)](https://github.com/go-gitea/gitea/stargazers)  
+  The safe default for lightweight self-hosted Git. Go-based, ships as a **single binary**, runs comfortably on **~1 GB RAM** (or less for small workloads). Covers repositories, issues, pull requests, wiki, and a built-in package registry supporting 20+ package ecosystems. **Gitea Actions** provides GitHub Actions-compatible CI/CD, allowing direct reuse of existing workflows and plugins. MIT licensed with 58K+ GitHub_Stars and 400K+ installations worldwide.
 
-- ⚡ **[Gogs](https://github.com/gogs/gogs)** [![GitHub stars](https://img.shields.io/github/stars/gogs/gogs?style=social&color=white)](https://github.com/gogs/gogs/stargazers)  
+- ⚡ **[Gogs](https://github.com/gogs/gogs)** [![GitHub_Stars](https://img.shields.io/github/stars/gogs/gogs?style=social&color=white)](https://github.com/gogs/gogs/stargazers)  
   The original painless self-hosted Git service written in Go, from which Gitea forked in 2016. Deliberately minimalist: fast repository hosting, issues, pull requests, wiki, and webhooks. Extremely light on hardware—runs easily on Raspberry Pi and tiny cloud VPS instances. MIT licensed with 47K+ stars.
 
-- 🦊 **[GitLab Community Edition](https://github.com/gitlabhq/gitlabhq)** [![GitHub stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq?style=social&color=white)](https://github.com/gitlabhq/gitlabhq/stargazers)  
+- 🦊 **[GitLab Community Edition](https://github.com/gitlabhq/gitlabhq)** [![GitHub_Stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq?style=social&color=white)](https://github.com/gitlabhq/gitlabhq/stargazers)  
   Comprehensive open-core DevOps platform in one package: Git hosting, native Auto DevOps CI/CD pipelines, container and package registry, basic security scanning, and agile project planning. Best for organizations requiring an end-to-end DevOps suite and able to provision recommended hardware (4 GB+ RAM).
 
-- 🔷 **[OneDev](https://github.com/theonedev/onedev)** [![GitHub stars](https://img.shields.io/github/stars/theonedev/onedev?style=social&color=white)](https://github.com/theonedev/onedev/stargazers)  
+- 🔷 **[OneDev](https://github.com/theonedev/onedev)** [![GitHub_Stars](https://img.shields.io/github/stars/theonedev/onedev?style=social&color=white)](https://github.com/theonedev/onedev/stargazers)  
   All-in-one Git server featuring **built-in CI/CD and AST-based code intelligence**. Provides symbol search and code navigation across commits, intuitive visual pipeline builders, customizable issue tracking boards, and Kubernetes runner integration.
 
-- 🪣 **[GitBucket](https://github.com/gitbucket/gitbucket)** [![GitHub stars](https://img.shields.io/github/stars/gitbucket/gitbucket?style=social&color=white)](https://github.com/gitbucket/gitbucket/stargazers)  
+- 🪣 **[GitBucket](https://github.com/gitbucket/gitbucket)** [![GitHub_Stars](https://img.shields.io/github/stars/gitbucket/gitbucket?style=social&color=white)](https://github.com/gitbucket/gitbucket/stargazers)  
   A GitHub clone powered by Scala and running on the JVM. Ships as a single executable JAR or WAR file, offering high visual and API compatibility with GitHub (repositories, issues, pull requests, wikis, and an extensible plugin system).
 
-- 🔒 **[Gitolite](https://github.com/sitaramc/gitolite)** [![GitHub stars](https://img.shields.io/github/stars/sitaramc/gitolite?style=social&color=white)](https://github.com/sitaramc/gitolite/stargazers)  
+- 🔒 **[Gitolite](https://github.com/sitaramc/gitolite)** [![GitHub_Stars](https://img.shields.io/github/stars/sitaramc/gitolite?style=social&color=white)](https://github.com/sitaramc/gitolite/stargazers)  
   Fine-grained access control layer for self-hosted Git repositories over SSH. Allows administrators to define granular branch, tag, and repo permissions via a simple configuration file without granting full shell access to developers.
 
-- 🍦 **[Soft Serve](https://github.com/charmbracelet/soft-serve)** [![GitHub stars](https://img.shields.io/github/stars/charmbracelet/soft-serve?style=social&color=white)](https://github.com/charmbracelet/soft-serve/stargazers)  
+- 🍦 **[Soft Serve](https://github.com/charmbracelet/soft-serve)** [![GitHub_Stars](https://img.shields.io/github/stars/charmbracelet/soft-serve?style=social&color=white)](https://github.com/charmbracelet/soft-serve/stargazers)  
   A mighty, self-hostable Git server designed for the terminal and command-line enthusiasts by Charm. Features an interactive terminal UI (TUI) for browsing repositories, SSH-driven repository management, and simple single-binary deployment.
 
 - 🏰 **[Forgejo](https://codeberg.org/forgejo/forgejo)** [![Codeberg stars](https://img.shields.io/gitea/stars/forgejo/forgejo?gitea_url=https%3A%2F%2Fcodeberg.org&style=social&color=white)](https://codeberg.org/forgejo/forgejo/stars)  
   Community-governed fork of Gitea backed by the non-profit **Codeberg e.V.** and licensed under **GPL-3.0**. Dedicated to software freedom, transparency, and federation via ActivityPub. Provides full GitHub Actions-compatible CI/CD runners, package registries, and drop-in migration from Gitea.
 
-- 📜 **[GitList](https://github.com/klaussilveira/gitlist)** [![GitHub stars](https://img.shields.io/github/stars/klaussilveira/gitlist?style=social&color=white)](https://github.com/klaussilveira/gitlist/stargazers)  
+- 📜 **[GitList](https://github.com/klaussilveira/gitlist)** [![GitHub_Stars](https://img.shields.io/github/stars/klaussilveira/gitlist?style=social&color=white)](https://github.com/klaussilveira/gitlist/stargazers)  
   An elegant, modern Git repository viewer built with PHP. Allows teams to browse repositories, view commit logs, compare diffs, search files, and inspect trees via a clean web interface without the operational weight of a full forge.
 
-- ☕ **[Gitblit](https://github.com/gitblit-org/gitblit)** [![GitHub stars](https://img.shields.io/github/stars/gitblit-org/gitblit?style=social&color=white)](https://github.com/gitblit-org/gitblit/stargazers)  
+- ☕ **[Gitblit](https://github.com/gitblit-org/gitblit)** [![GitHub_Stars](https://img.shields.io/github/stars/gitblit-org/gitblit?style=social&color=white)](https://github.com/gitblit-org/gitblit/stargazers)  
   Pure Java open-source Git server and repository management solution. Functions as an independent server or can integrate into existing servlet containers, offering granular access controls, ticket tracking, and repository federation.
 
-- 🪟 **[Bonobo Git Server](https://github.com/jakubgarfield/Bonobo-Git-Server)** [![GitHub stars](https://img.shields.io/github/stars/jakubgarfield/Bonobo-Git-Server?style=social&color=white)](https://github.com/jakubgarfield/Bonobo-Git-Server/stargazers)  
+- 🪟 **[Bonobo Git Server](https://github.com/jakubgarfield/Bonobo-Git-Server)** [![GitHub_Stars](https://img.shields.io/github/stars/jakubgarfield/Bonobo-Git-Server?style=social&color=white)](https://github.com/jakubgarfield/Bonobo-Git-Server/stargazers)  
   Lightweight ASP.NET-based Git server for Windows environments hosted on IIS. Features a web management console for user accounts, teams, and repository access permissions.
 
-- 🔍 **[Gerrit Code Review](https://github.com/GerritCodeReview/gerrit)** [![GitHub stars](https://img.shields.io/github/stars/GerritCodeReview/gerrit?style=social&color=white)](https://github.com/GerritCodeReview/gerrit/stargazers)  
+- 🔍 **[Gerrit Code Review](https://github.com/GerritCodeReview/gerrit)** [![GitHub_Stars](https://img.shields.io/github/stars/GerritCodeReview/gerrit?style=social&color=white)](https://github.com/GerritCodeReview/gerrit/stargazers)  
   Web-based team code collaboration and Git review tool developed by Google. Enforces granular pre-commit peer reviews and verification workflows with deep CI/CD hooks, powering large-scale repositories like Android and Chromium.
 
-- 🐍 **[Klaus](https://github.com/jonashaag/klaus)** [![GitHub stars](https://img.shields.io/github/stars/jonashaag/klaus?style=social&color=white)](https://github.com/jonashaag/klaus/stargazers)  
+- 🐍 **[Klaus](https://github.com/jonashaag/klaus)** [![GitHub_Stars](https://img.shields.io/github/stars/jonashaag/klaus?style=social&color=white)](https://github.com/jonashaag/klaus/stargazers)  
   A minimalist, zero-configuration Python/WSGI Git repository web viewer. Features syntax highlighting and Markdown rendering, designed to "just work" for lightweight code browsing.
 
-- 🦝 **[Pagure](https://github.com/Pagure/pagure)** [![GitHub stars](https://img.shields.io/github/stars/Pagure/pagure?style=social&color=white)](https://github.com/Pagure/pagure/stargazers)  
+- 🦝 **[Pagure](https://github.com/Pagure/pagure)** [![GitHub_Stars](https://img.shields.io/github/stars/Pagure/pagure?style=social&color=white)](https://github.com/Pagure/pagure/stargazers)  
   Lightweight, customizable Git-centered forge built with Python and pygit2. Backs the Fedora Linux package ecosystem, providing pull requests, issue tracking, and per-repo documentation.
 
 ---
@@ -156,7 +156,7 @@ Contributions are warmly welcomed! Help keep this ecosystem guide fresh and accu
 3. **Include essential details**: Platform name, official URL, starting price/free tier specifications, and license.
 4. **Submit a Pull Request** with a brief summary of additions or updates.
 
-Please ensure all pricing, free-tier limits, and star counts are factually verified before submitting.
+Please ensure all pricing, free-tier limits, and Stars_Counts are factually verified before submitting.
 
 ---
 
