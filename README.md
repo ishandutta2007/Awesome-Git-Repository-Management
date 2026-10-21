@@ -30,6 +30,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
 
 - [Open-Source GitHub Projects](#open-source-github-projects)
@@ -39,6 +40,12 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [Disclaimer](#disclaimer)
 
 
+
+## Sector Overview & Market Dynamics
+
+The global Version Control Systems (VCS) and Git Repository Management market is estimated at **$1.2B – $1.5B in 2025/2026** and is projected to expand beyond **$3.5B+ by 2030** (CAGR of ~18.5%), driven by automated CI/CD pipelines, cloud modernization, and native AI code assistance.
+
+The sector demonstrates **high market concentration with winner-take-most dynamics**: tier-one hyperscalers and dev platforms—predominantly **Microsoft (GitHub & Azure Repos)**, **GitLab**, and **Atlassian (Bitbucket)**—command more than 80% of enterprise developer mindshare and commercial spend. In parallel, a robust self-hosted and open-source ecosystem (led by Gitea, Forgejo, and OneDev) sustains a thriving alternative segment for teams demanding absolute data sovereignty, air-gapped deployments, and zero per-seat licensing overhead.
 
 ## SaaS/Hosted Platforms
 
