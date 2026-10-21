@@ -11,6 +11,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Git-Repository-Management/pulls)
 [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Git-Repository-Management?style=social)](https://github.com/ishandutta2007/Awesome-Git-Repository-Management/stargazers)
+<a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **A curated directory of top Git repository management platforms, self-hosted Git servers, lightweight code forges, and enterprise DevOps suites.**
 
