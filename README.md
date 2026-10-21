@@ -2,6 +2,10 @@
 
 <div align="center">
 
+<img src="assets/banner.svg" alt="Awesome Git Repository Management Banner" width="100%" />
+
+<br/>
+
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Git-Repository-Management/pulls)
