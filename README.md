@@ -63,47 +63,49 @@ The sector demonstrates **high market concentration with winner-take-most dynami
 
 ## Open-Source GitHub Projects
 
+Curated open-source Git servers, lightweight code forges, and complete self-hosted DevOps platforms, sorted by GitHub star count in descending order:
 
+- **[Gitea](https://github.com/go-gitea/gitea)** [![GitHub stars](https://img.shields.io/github/stars/go-gitea/gitea?style=social&color=white)](https://github.com/go-gitea/gitea/stargazers)  
+  The safe default for lightweight self-hosted Git. Go-based, ships as a **single binary**, runs comfortably on **~1 GB RAM** (or less for small workloads). Covers repositories, issues, pull requests, wiki, and a built-in package registry supporting 20+ package ecosystems. **Gitea Actions** provides GitHub Actions-compatible CI/CD, allowing direct reuse of existing workflows and plugins. MIT licensed with 58K+ GitHub stars and 400K+ installations worldwide.
 
-- **[Gitea](https://github.com/go-gitea/gitea)**  
+- **[Gogs](https://github.com/gogs/gogs)** [![GitHub stars](https://img.shields.io/github/stars/gogs/gogs?style=social&color=white)](https://github.com/gogs/gogs/stargazers)  
+  The original painless self-hosted Git service written in Go, from which Gitea forked in 2016. Deliberately minimalist: fast repository hosting, issues, pull requests, wiki, and webhooks. Extremely light on hardware—runs easily on Raspberry Pi and tiny cloud VPS instances. MIT licensed with 47K+ stars.
 
-  The safe default for lightweight self-hosted Git. Go-based, ships as a **single binary**, runs comfortably on **~1 GB RAM** (or less for small workloads) . Covers repositories, issues, pull requests, wiki, and a built-in package registry supporting 20+ formats . **Gitea Actions** provides GitHub Actions-compatible CI/CD, allowing reuse of existing workflow files and plugins . MIT licensed with 54K+ GitHub stars and 400K+ installations . **Trade-off**: company-backed governance, which prompted the Forgejo fork. Best for small teams, homelabs, and anyone who wants Git hosting that "just works" on modest hardware.
+- **[GitLab Community Edition](https://github.com/gitlabhq/gitlabhq)** [![GitHub stars](https://img.shields.io/github/stars/gitlabhq/gitlabhq?style=social&color=white)](https://github.com/gitlabhq/gitlabhq/stargazers)  
+  Comprehensive open-core DevOps platform in one package: Git hosting, native Auto DevOps CI/CD pipelines, container and package registry, basic security scanning, and agile project planning. Best for organizations requiring an end-to-end DevOps suite and able to provision recommended hardware (4 GB+ RAM).
 
+- **[OneDev](https://github.com/theonedev/onedev)** [![GitHub stars](https://img.shields.io/github/stars/theonedev/onedev?style=social&color=white)](https://github.com/theonedev/onedev/stargazers)  
+  All-in-one Git server featuring **built-in CI/CD and AST-based code intelligence**. Provides symbol search and code navigation across commits, intuitive visual pipeline builders, customizable issue tracking boards, and Kubernetes runner integration.
 
+- **[GitBucket](https://github.com/gitbucket/gitbucket)** [![GitHub stars](https://img.shields.io/github/stars/gitbucket/gitbucket?style=social&color=white)](https://github.com/gitbucket/gitbucket/stargazers)  
+  A GitHub clone powered by Scala and running on the JVM. Ships as a single executable JAR or WAR file, offering high visual and API compatibility with GitHub (repositories, issues, pull requests, wikis, and an extensible plugin system).
 
-- **[Forgejo](https://github.com/forgejo/forgejo)**  
+- **[Gitolite](https://github.com/sitaramc/gitolite)** [![GitHub stars](https://img.shields.io/github/stars/sitaramc/gitolite?style=social&color=white)](https://github.com/sitaramc/gitolite/stargazers)  
+  Fine-grained access control layer for self-hosted Git repositories over SSH. Allows administrators to define granular branch, tag, and repo permissions via a simple configuration file without granting full shell access to developers.
 
-  Community-governed fork of Gitea, backed by the non-profit **Codeberg e.V.** and licensed under **GPL-3.0** . Functionally very close to Gitea and can serve as a drop-in replacement . **Key differentiators**: FOSS-first governance (no company control), active push toward ActivityPub-based federation, and its own Actions runner . **v14.0** (January 2026) added a lighter CodeMirror-based file editor, improved Actions trust management (approve once/always/deny), and stateless CSRF protection . Best for teams that prioritize community governance and long-term FOSS alignment over company-backed development speed.
+- **[Soft Serve](https://github.com/charmbracelet/soft-serve)** [![GitHub stars](https://img.shields.io/github/stars/charmbracelet/soft-serve?style=social&color=white)](https://github.com/charmbracelet/soft-serve/stargazers)  
+  A mighty, self-hostable Git server designed for the terminal and command-line enthusiasts by Charm. Features an interactive terminal UI (TUI) for browsing repositories, SSH-driven repository management, and simple single-binary deployment.
 
+- **[Forgejo](https://codeberg.org/forgejo/forgejo)** [![Codeberg stars](https://img.shields.io/gitea/stars/forgejo/forgejo?gitea_url=https%3A%2F%2Fcodeberg.org&style=social&color=white)](https://codeberg.org/forgejo/forgejo/stars)  
+  Community-governed fork of Gitea backed by the non-profit **Codeberg e.V.** and licensed under **GPL-3.0**. Dedicated to software freedom, transparency, and federation via ActivityPub. Provides full GitHub Actions-compatible CI/CD runners, package registries, and drop-in migration from Gitea.
 
+- **[GitList](https://github.com/klaussilveira/gitlist)** [![GitHub stars](https://img.shields.io/github/stars/klaussilveira/gitlist?style=social&color=white)](https://github.com/klaussilveira/gitlist/stargazers)  
+  An elegant, modern Git repository viewer built with PHP. Allows teams to browse repositories, view commit logs, compare diffs, search files, and inspect trees via a clean web interface without the operational weight of a full forge.
 
-- **[GitLab Community Edition](https://github.com/gitlabhq/gitlabhq)**  
+- **[Gitblit](https://github.com/gitblit-org/gitblit)** [![GitHub stars](https://img.shields.io/github/stars/gitblit-org/gitblit?style=social&color=white)](https://github.com/gitblit-org/gitblit/stargazers)  
+  Pure Java open-source Git server and repository management solution. Functions as an independent server or can integrate into existing servlet containers, offering granular access controls, ticket tracking, and repository federation.
 
-  Full DevOps platform in one application: Git hosting, native CI/CD, container and package registry, security scanning, and project planning . **Resource requirement**: realistically wants **4 GB+ RAM**, more with active pipelines . Open-core (CE is open-source). **Trade-off**: breadth comes at the cost of operational weight—Omnibus package is manageable to install but heavier to maintain than single-binary options . Best for organizations that want an integrated DevOps experience and can provision the hardware.
+- **[Bonobo Git Server](https://github.com/jakubgarfield/Bonobo-Git-Server)** [![GitHub stars](https://img.shields.io/github/stars/jakubgarfield/Bonobo-Git-Server?style=social&color=white)](https://github.com/jakubgarfield/Bonobo-Git-Server/stargazers)  
+  Lightweight ASP.NET-based Git server for Windows environments hosted on IIS. Features a web management console for user accounts, teams, and repository access permissions.
 
+- **[Gerrit Code Review](https://github.com/GerritCodeReview/gerrit)** [![GitHub stars](https://img.shields.io/github/stars/GerritCodeReview/gerrit?style=social&color=white)](https://github.com/GerritCodeReview/gerrit/stargazers)  
+  Web-based team code collaboration and Git review tool developed by Google. Enforces granular pre-commit peer reviews and verification workflows with deep CI/CD hooks, powering large-scale repositories like Android and Chromium.
 
+- **[Klaus](https://github.com/jonashaag/klaus)** [![GitHub stars](https://img.shields.io/github/stars/jonashaag/klaus?style=social&color=white)](https://github.com/jonashaag/klaus/stargazers)  
+  A minimalist, zero-configuration Python/WSGI Git repository web viewer. Features syntax highlighting and Markdown rendering, designed to "just work" for lightweight code browsing.
 
-- **[Gogs](https://github.com/gogs/gogs)**  
-
-  The original lightweight Go Git service, from which Gitea forked in 2016 . Deliberately minimal: repositories, issues, pull requests, wiki, and webhooks . **No built-in CI/CD** (requires external tools like Woodpecker or Drone), no OAuth provider, and development is largely single-maintainer with a slower pace . Runs on tiny hardware including single-board computers. MIT licensed. Best for absolute minimalism—when you want the smallest possible server footprint and nothing more.
-
-
-
-- **[OneDev](https://github.com/theonedev/onedev)**  
-
-  Open-source Git server with **built-in CI/CD and code intelligence**. Combines repository management with a native pipeline engine and symbol-aware code navigation. Best for teams that want CI/CD included without GitLab's resource overhead.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Codeberg** — Non-profit hosting service running Forgejo. Best for projects that align with FOSS values but don't want to self-host .
-
-- **SourceHut** — Minimalist, email-centric forge with a distinctive philosophy and lightweight infrastructure. Best for developers who prefer a non-GitHub-style workflow.
-
-- **Frameworks for building custom systems**: Use **Gitea** for the simplest path to self-hosted Git with CI/CD. Choose **Forgejo** when community governance and GPL licensing matter. Deploy **GitLab CE** when you need a full DevOps platform and can spare the RAM. Use **Gogs** only for absolute minimalism. Add **Woodpecker CI** or **Drone** to Gogs if CI is needed.
+- **[Pagure](https://github.com/Pagure/pagure)** [![GitHub stars](https://img.shields.io/github/stars/Pagure/pagure?style=social&color=white)](https://github.com/Pagure/pagure/stargazers)  
+  Lightweight, customizable Git-centered forge built with Python and pygit2. Backs the Fedora Linux package ecosystem, providing pull requests, issue tracking, and per-repo documentation.
 
 
 
