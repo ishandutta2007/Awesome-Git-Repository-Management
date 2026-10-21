@@ -43,6 +43,7 @@ This curated list benchmarks leading **cloud SaaS platforms** and **open-source 
 - 🐙 [Open-Source Git Servers & Repositories](#-open-source-git-servers--repositories)
 - 🏗️ [Architectural Comparison & Hardware Requirements](#️-architectural-comparison--hardware-requirements)
 - 🤝 [How to Contribute](#-how-to-contribute)
+- ⭐ [Star History](#--star-history)
 - ⚖️ [Disclaimer & License](#️-disclaimer--license)
 
 ---
@@ -155,6 +156,12 @@ Contributions are warmly welcomed! Help keep this ecosystem guide fresh and accu
 4. **Submit a Pull Request** with a brief summary of additions or updates.
 
 Please ensure all pricing, free-tier limits, and star counts are factually verified before submitting.
+
+---
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Git-Repository-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Git-Repository-Management&type=date&legend=top-left)
 
 ---
 
