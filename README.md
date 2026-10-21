@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Git-Repository-Management/pulls)
 [![GitHub Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Git-Repository-Management?style=social)](https://github.com/ishandutta2007/Awesome-Git-Repository-Management/stargazers)
@@ -174,6 +174,6 @@ Please ensure all pricing, free-tier limits, and star counts are factually verif
 
 <div align="center">
 
-**[Explore More Curated Awesome Lists](https://github.com/sindresorhus/awesome)** • **[Submit an Issue or Suggestion](https://github.com/ishandutta2007/Awesome-Git-Repository-Management/issues)**
+**[Explore More Curated Awesome Lists](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)** • **[Submit an Issue or Suggestion](https://github.com/ishandutta2007/Awesome-Git-Repository-Management/issues)**
 
 </div>
